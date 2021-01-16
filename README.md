@@ -9,7 +9,6 @@ Criado para praticar conhecimento e aprender mexer com typescript.
 
 Enfrentei algumas dificuldades com a tipagem de eventos mas consegui localizar com algumas buscas e estudos na net.
 
-# Necessario:
+# Necessario
 
  Um servidor backend para mostrar todo potencial do site.
- 
